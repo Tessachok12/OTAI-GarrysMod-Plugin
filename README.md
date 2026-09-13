@@ -1,9 +1,9 @@
 # OTAI Garrys Mod Plugin
 
 # Для работы требуется
-[OTAI Garrys Addon - NPC Bot]([[https://github.com/Tessachok12/Open-Tess-AI])
+[OTAI Garrys Addon - NPC Bot]([https://github.com/Tessachok12/Open-Tess-AI)
 
-[Open Tess AI (OTAI)]([https://github.com/Tessachok12/Open-Tess-AI])
+[Open Tess AI (OTAI)](https://github.com/Tessachok12/Open-Tess-AI)
 
 
 Плагин для Open Tess AI: seq2seq-бот становится игровым персонажем
