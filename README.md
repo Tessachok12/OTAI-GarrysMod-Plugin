@@ -1,8 +1,8 @@
 # OTAI Garrys Mod Plugin
 
 # Для работы требуется
-[OTAI Garrys Addon - NPC Bot]([https://github.com/Tessachok12/Open-Tess-AI)
-
+[OTAI Garrys Addon - NPC Bot](https://github.com/Tessachok12/Open-Tess-AI)
+И
 [Open Tess AI (OTAI)](https://github.com/Tessachok12/Open-Tess-AI)
 
 
